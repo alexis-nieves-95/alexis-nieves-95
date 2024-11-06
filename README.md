@@ -1,4 +1,11 @@
-## Hi there 👋
+## A Bit About Me
+
+My name is Alexis Nieves, and I am an undergraduate student at Western Governors University majoring in Computer Science.
+
+I am on track to graduate within the upcoming year. I enjoy languages such as Java, Python, HTML, and CSS. I'm hoping to develop useful programs,
+and dabble in website creation.
+
+In my spare time, I enjoy playing video games, reading, listening to music, playing guitar, golfing, and chatting with friends.
 
 <!--
 **alexis-nieves-95/alexis-nieves-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
